@@ -20,3 +20,8 @@
 - Peripherals with at least 100+ RGB LEDs
 - Gaming headset, wireless and RGB
 - Gaming chair not necessary but heavily recommended
+
+
+#### HEALTH WARNINGS AND RECOMMENDATIONS
+
+Please take regular breaks, this game is highly addicting and can prompt you to stay seated for way too long. 
